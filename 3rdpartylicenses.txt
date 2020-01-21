@@ -134,6 +134,10 @@ eosjs-classic-goc@16.0.11
 MIT
 MIT
 
+eosjs-classic-yas@16.0.11
+MIT
+MIT
+
 protractor@5.1.2
 MIT
 The MIT License
