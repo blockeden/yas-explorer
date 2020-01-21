@@ -165,6 +165,7 @@
     "TransactionNotFound": "对不起，没有找到相应的交易信息",
     "EosBalance": "EOS余额",
     "CurrentFoPrice": "FO流通价格",
+    "Current Price": "流通价格",
     "FoMarket": "FO总量",
     "FoToEos": "当前预计兑换比率",
     "FibosBalance": "跨链账户余额",
