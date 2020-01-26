@@ -312,5 +312,9 @@
     "Unlock": "解锁",
     "ClaimForUnlockFO": "领取解锁FO",
     "UnlockFoDesc": "一次性领取解锁FO",
-    "Links": "推荐"
+    "Links": "推荐",
+    "Contract Transaction": "合约调用",
+    "Contract Account": "合约账户",
+    "Get Actions": "获取操作",
+    "Send Transaction": "发起交易"
 }
