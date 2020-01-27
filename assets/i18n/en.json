@@ -196,5 +196,7 @@
     "VoteProxy": "Vote Proxy",
     "ProxyDesc": "You can only choose one proxy",
     "ClaimForUnlockFO": "Claim For Unlock FO",
-    "UnlockFoDesc":"Claim for unlock FO in one time"
+    "UnlockFoDesc": "Claim for unlock FO in one time",
+    "VoteProxyDesc": "Buy Rex need to vote by proxy or vote at least 21 bps",
+    "SellRexDesc": "You need to wait 4 days to sell rex after buying"
 }

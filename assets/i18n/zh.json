@@ -316,5 +316,18 @@
     "Contract Transaction": "合约调用",
     "Contract Account": "合约账户",
     "Get Actions": "获取操作",
-    "Send Transaction": "发起交易"
+    "Send Transaction": "发起交易",
+    "VoteProxyDesc": "购买 REX 需要通过代理投票或投票给至少21个节点，选中将投票给指定代理，或者用户可自行投票。",
+    "Vote Specified Proxy": "投票给指定代理",
+    "SellRexDesc": "购买REX后需要等待4天才能卖出。卖出REX后资金存在过渡账户，需要发起取回才会回到自己的账户",
+    "Buy REX": "购买REX",
+    "Sell REX": "卖出REX",
+    "Transition Account": "过渡账户",
+    "Withdraw": "取回",
+    "Rent": "租赁",
+    "Can": "能",
+    "for 30 days": "为期30天",
+    "Total Unlent": "可租赁总额",
+    "Rate": "比例",
+    "Payment": "支付"
 }
