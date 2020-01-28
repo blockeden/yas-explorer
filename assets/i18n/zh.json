@@ -331,5 +331,8 @@
     "Rate": "比例",
     "Payment": "支付",
     "Stake to REX": "抵押转REX",
-    "StakeToRexDesc": "抵押转REX不需要等待3天解除抵押，但是转为REX后卖出需要等待4天。"
+    "StakeToRexDesc": "抵押转REX不需要等待3天解除抵押，但是转为REX后卖出需要等待4天。",
+    "Vote Mining": "投票挖矿",
+    "VoteRewardDesc": "投票挖矿需要投票给 yasplusproxy 代理，一天能够领取一次，如果违规，三天不能领取。",
+    "About PLUS Coin": "PLUS代币详情"
 }
