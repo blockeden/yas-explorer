@@ -329,5 +329,7 @@
     "for 30 days": "为期30天",
     "Total Unlent": "可租赁总额",
     "Rate": "比例",
-    "Payment": "支付"
+    "Payment": "支付",
+    "Stake to REX": "抵押转REX",
+    "StakeToRexDesc": "抵押转REX不需要等待3天解除抵押，但是转为REX后卖出需要等待4天。"
 }
