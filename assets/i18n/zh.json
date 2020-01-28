@@ -167,7 +167,7 @@
     "CurrentFoPrice": "FO流通价格",
     "Current Price": "流通价格",
     "FoMarket": "FO总量",
-    "FoToEos": "当前预计兑换比率",
+    "Exchange Rate": "当前预计兑换比率",
     "FibosBalance": "跨链账户余额",
     "FONotes": "注:由于FO的发行总量是EOS的十倍，所以当前价格的初始值为EOS的10倍,",
     "FONoteSign": "相当于",
@@ -177,7 +177,7 @@
     "sellram": "出售",
     "buyram": "购买",
     "buyrambytes": "购买",
-    "Exchange": "FO兑换",
+    "Exchange": "交易",
     "ExchangeNumber": "兑出数量",
     "ExchangeToken": "兑入代币",
     "GetIronmanIdentity": "获取Ironman身份",
@@ -334,5 +334,11 @@
     "StakeToRexDesc": "抵押转REX不需要等待3天解除抵押，但是转为REX后卖出需要等待4天。",
     "Vote Mining": "投票挖矿",
     "VoteRewardDesc": "投票挖矿需要投票给 yasplusproxy 代理，一天能够领取一次，如果违规，三天不能领取。",
-    "About PLUS Coin": "PLUS代币详情"
+    "About PLUS Coin": "PLUS代币详情",
+    "About Uniswap": "Uniswap介绍",
+    "Liquid Pool Balance": "流动性底池资金",
+    "Price": "价格",
+    "History": "历史",
+    "Swap": "兑换",
+    "SwapDesc": "兑换采用Uniswap模型，单次交易金额不超过底池10%"
 }

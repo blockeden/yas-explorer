@@ -200,5 +200,6 @@
     "VoteProxyDesc": "Buy Rex need to vote by proxy or vote at least 21 bps",
     "SellRexDesc": "You need to wait 4 days to sell rex after buying",
     "StakeToRexDesc":"Change Stake to REX do not need wait 3 days to unstake. But after changeing to rex, you need wait 4 days to sell REX.",
-    "VoteRewardDesc": "Vote Mining need you to vote for proxy yasplusproxy, you can claim once a day, if you against the rules, you can not claim in 3days"
+    "VoteRewardDesc": "Vote Mining need you to vote for proxy yasplusproxy, you can claim once a day, if you against the rules, you can not claim in 3days",
+    "SwapDesc": "Swap use Uniswap Model, single transaction amount can not exceed 10% of the liquid pool"
 }
