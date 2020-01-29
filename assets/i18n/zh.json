@@ -340,5 +340,7 @@
     "Price": "价格",
     "History": "历史",
     "Swap": "兑换",
-    "SwapDesc": "兑换采用Uniswap模型，单次交易金额不超过底池10%"
+    "SwapDesc": "兑换采用Uniswap模型，单次交易金额不超过底池10%",
+    "Current Supply": "当前发行量",
+    "Estimated": "估算"
 }
