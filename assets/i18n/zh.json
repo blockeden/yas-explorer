@@ -333,7 +333,7 @@
     "Stake to REX": "抵押转REX",
     "StakeToRexDesc": "抵押转REX不需要等待3天解除抵押，但是转为REX后卖出需要等待4天。不能解除自身所有抵押，需要留一些资源发起交易",
     "Vote Mining": "投票挖矿",
-    "VoteRewardDesc": "投票挖矿需要投票给 yasplusproxy 代理，一天能够领取一次，如果违规，三天不能领取。",
+    "VoteRewardDesc": "投票挖矿需要投票给 yasplusproxy 代理，或者投票给plusplusplus节点，一天能够领取一次，如果违规，三天不能领取。",
     "About PLUS Coin": "PLUS代币详情",
     "About Uniswap": "Uniswap介绍",
     "Liquid Pool Balance": "流动性底池资金",
@@ -342,5 +342,7 @@
     "Swap": "兑换",
     "SwapDesc": "兑换采用Uniswap模型，单次交易金额不超过底池10%",
     "Current Supply": "当前发行量",
-    "Estimated": "估算"
+    "Estimated": "估算",
+    "Add PLUS Node": "保持原投票并增加PLUS节点",
+    "Vote PLUS Proxy": "将投票代理给PLUS"
 }
