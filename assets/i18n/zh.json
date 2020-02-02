@@ -345,5 +345,11 @@
     "Estimated": "估算",
     "Add PLUS Node": "保持原投票并增加PLUS节点",
     "Vote PLUS Proxy": "将投票代理给PLUS",
-    "Sellable": "可卖"
+    "Sellable": "可卖",
+    "Liquidity": "底仓操作",
+    "LiquidityDesc": "底仓操作是高风险且高难度的行为，请一般用户不要使用。如果要使用请充分了解uniswap并且了解合约风险。",
+    "ADD Liquidity": "补充底仓",
+    "Withdraw Liquidity": "赎回底仓",
+    "My Share": "我的底仓股权",
+    "Share": "股权"
 }
