@@ -351,5 +351,6 @@
     "ADD Liquidity": "补充底仓",
     "Withdraw Liquidity": "赎回底仓",
     "My Share": "我的底仓股权",
-    "Share": "股权"
+    "Share": "股权",
+    "Repair": "违规修复"
 }
