@@ -354,5 +354,7 @@
     "Share": "股权",
     "Repair": "违规修复",
     "REX Airdrop": "REX空投",
-    "YasRexAirdropDesc": "REX空投根据你持有的REX数量进行计算，24小时领取一次"
+    "YasRexAirdropDesc": "REX空投根据你持有的REX数量进行计算，24小时领取一次",
+    "Execute": "执行",
+    "Approve": "批准"
 }
