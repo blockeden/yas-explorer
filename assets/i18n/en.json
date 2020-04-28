@@ -203,6 +203,7 @@
     "VoteRewardDesc": "Vote Mining need you to vote for proxy yasplusproxy or node plusplusplus, you can claim once a day, if you against the rules, you can not claim in 3days",
     "SwapDesc": "Swap use Uniswap Model, single transaction amount can not exceed 10% of the liquid pool",
     "LiquidityDesc": "Add Liquidity to pool is a high-risk and difficult behavior. Please do not use it for general users. If you want to use it, please fully understand uniswap and understand the contract risks.",
-    "YasRexAirdropDesc":"REX airdrop base on REX you buy, claim once every 24hrs"
+    "YasRexAirdropDesc":"REX airdrop base on REX you buy, claim once every 24hrs",
+    "NeedCreateAccountDesc":"You need to create account use the publick key"
 
 }

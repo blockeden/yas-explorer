@@ -356,5 +356,10 @@
     "REX Airdrop": "REX空投",
     "YasRexAirdropDesc": "REX空投根据你持有的REX数量进行计算，24小时领取一次",
     "Execute": "执行",
-    "Approve": "批准"
+    "Approve": "批准",
+    "Key Index": "密钥序号",
+    "Hardware Wallet": "硬件钱包",
+    "Account List": "账户列表",
+    "Bluetooth": "蓝牙",
+    "NeedCreateAccountDesc": "公钥无法找到关联账户，请使用该公钥创建账户"
 }
