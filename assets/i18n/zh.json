@@ -361,5 +361,6 @@
     "Hardware Wallet": "硬件钱包",
     "Account List": "账户列表",
     "Bluetooth": "蓝牙",
-    "NeedCreateAccountDesc": "公钥无法找到关联账户，请使用该公钥创建账户"
+    "NeedCreateAccountDesc": "公钥无法找到关联账户，请使用该公钥创建账户",
+    "Plugin": "插件"
 }
