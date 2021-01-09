@@ -362,5 +362,6 @@
     "Account List": "账户列表",
     "Bluetooth": "蓝牙",
     "NeedCreateAccountDesc": "公钥无法找到关联账户，请手动输入账户",
-    "Plugin": "插件"
+    "Plugin": "插件",
+    "Search Account": "搜索账户"
 }
